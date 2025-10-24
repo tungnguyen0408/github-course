@@ -1,1 +1,1 @@
-console.log(`cart.model.js loaded`);
+console.log(`update cart.model.js loaded`);
